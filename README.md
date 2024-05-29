@@ -5,9 +5,9 @@
 - 🌱 Studying Data Engineering and Data Science
 
  <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroGodoy1001&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E"/>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGodoy1001&layout=compact&langs_count=7&theme=transparent"/>
+  <a href="https://github.com/LeandroGodoy1001">
+   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=LeandroGodoy1001&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGodoy1001&layout=compact&langs_count=7&theme=transparent"/>
 </div>
  
  ## Skills
